@@ -1,0 +1,6 @@
+@echo off
+echo Starting virtual environment...
+call .venv\Scripts\activate
+echo Running bot...
+python main.py
+pause

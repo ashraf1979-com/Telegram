@@ -1,0 +1,13 @@
+python-telegram-bot==20.6
+httpx==0.25.2
+pydub==0.25.1
+SpeechRecognition==3.10.1
+pillow==9.4.0
+ffmpeg-python==0.2.0
+python-dotenv==1.0.0
+tqdm==4.66.1
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.4.2
+scikit-image==0.24.0
+opencv-python==4.7.0.6
